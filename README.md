@@ -30,6 +30,6 @@
 
 <div align="center">
 
-*"Know your enemy and know yourself."*
+*"Thinking like a hacker. Acting like a guardian".*
 
 </div>
