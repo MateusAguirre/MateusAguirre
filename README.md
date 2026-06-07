@@ -19,9 +19,9 @@
 ```
 > whoami
 
-  Handle : [Azzol Hagane]
-  Área   : Defesa Cibernética
-  Status : Em campo
+  Handle: [Azzol Hagane]
+  Área: Defesa Cibernética
+  Status: Em campo
 ```
 
 </div>
