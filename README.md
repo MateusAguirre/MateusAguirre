@@ -5,7 +5,7 @@
 █▄▄  █  █▄█ ██▄ █▀▄ ▄█ ██▄ █▄▄ █▄█ █▀▄ █  █   █ 
 ```
 
-**`[ DEFESA CIBERNÉTICA ]`**
+**`[ CYBER DEFENSE ]`**
 
 ![](https://img.shields.io/badge/Cybersecurity-Defensive-red?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![](https://img.shields.io/badge/Brasil-🇧🇷-green?style=for-the-badge)
@@ -20,8 +20,8 @@
 > whoami
 
   Handle: [Azzol Hagane]
-  Área: Defesa Cibernética
-  Status: Em campo
+  Area: Penetration Testing (Ethical Hacker)
+  Status: In development
 ```
 
 </div>
